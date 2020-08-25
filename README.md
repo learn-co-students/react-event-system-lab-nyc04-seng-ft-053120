@@ -4,10 +4,10 @@
 
 In this lab you'll respond to events in React and write event handlers.
 
-> **Note**: The components are not defined yet, but the files are present.
+<!-- > **Note**: The components are not defined yet, but the files are present.
 > Before the tests will run, you must export components from `EyesOnMe.js` and
 > `Keypad.js`. To get started, write very basic components that you _know_ will
-> not pass all the tests, but at least be valid React.
+> not pass all the tests, but at least be valid React. -->
 
 ## Keypad
 
@@ -18,10 +18,10 @@ plant, since the last one was way too complicated for his employees to use.
 We'll keep things super simple instead, and use an `<input type="password" />`
 field to capture input. Here's how to complete the exercise:
 
-1. In the `components/Keypad.js` file, create a `Keypad` React component.
-2. In that component, render an `input` with the right type.
-3. On that `input`, add an event handler that listens for the `keyUp` event.
-4. When that event fires, use `console.log` to print out the text `'Entering password...'`.
+<!-- 1. In the `components/Keypad.js` file, create a `Keypad` React component. -->
+<!-- 2. In that component, render an `input` with the right type. -->
+<!-- 3. On that `input`, add an event handler that listens for the `keyUp` event. -->
+<!-- 4. When that event fires, use `console.log` to print out the text `'Entering password...'`. -->
 
 ## Eyes on the ball
 
